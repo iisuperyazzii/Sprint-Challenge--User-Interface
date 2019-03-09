@@ -122,6 +122,42 @@ p {
     border-bottom: 1px dashed black;
 }
 
+.boxz-1{
+	background-color: teal;
+}
+
+.boxz-2{
+background-color: gold;
+}
+
+.boxz-3{
+background-color: cadetblue;
+}
+
+.boxz-4{
+background-color: indigo;
+}
+.boxz-5{
+background-color: coral;
+}
+.boxz-6{
+background-color: crimson;
+}
+.boxz-7{
+background-color: forestgreen;
+}
+.boxz-8{
+background-color: darkorchid;
+}
+.boxz-9{
+background-color: hotpink;
+}
+.boxz-10{
+background-color: dodgerblue;
+}
+
+
+
 .middle-content h2 {
     padding: 0 2%;
     margin-bottom: 0;
